@@ -1,1 +1,1 @@
-1.0.3;https://github.com/shoomiz/Texan/releases/download/v1.0.1/BarcodeGeneratorSetup.exe
+1.0.4;https://github.com/shoomiz/Texan/releases/download/v1.0.1/BarcodeGeneratorSetup.exe
